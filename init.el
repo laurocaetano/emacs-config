@@ -12,3 +12,4 @@
 (require 'init-auto-complete)
 (require 'init-whitespace-cleanup)
 (require 'init-ruby-mode)
+(require 'init-clojure)
