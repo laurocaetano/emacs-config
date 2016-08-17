@@ -13,3 +13,4 @@
 (require 'init-whitespace-cleanup)
 (require 'init-ruby-mode)
 (require 'init-clojure)
+(require 'init-cider)
