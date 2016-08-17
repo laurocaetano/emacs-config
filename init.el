@@ -6,3 +6,4 @@
 
 (require 'init-elpa)
 (require 'init-key-mapping)
+(require 'init-gui-config)
