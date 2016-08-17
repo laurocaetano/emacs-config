@@ -14,3 +14,4 @@
 (require 'init-ruby-mode)
 (require 'init-clojure)
 (require 'init-cider)
+(require 'init-themes)
