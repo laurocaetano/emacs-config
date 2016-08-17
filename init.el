@@ -10,3 +10,4 @@
 (require 'init-flycheck)
 (require 'init-helm)
 (require 'init-auto-complete)
+(require 'init-whitespace-cleanup)
