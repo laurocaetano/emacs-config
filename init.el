@@ -9,3 +9,4 @@
 (require 'init-gui-config)
 (require 'init-flycheck)
 (require 'init-helm)
+(require 'init-auto-complete)
