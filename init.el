@@ -5,3 +5,4 @@
 ;; Load configurations
 
 (require 'init-elpa)
+(require 'init-key-mapping)
