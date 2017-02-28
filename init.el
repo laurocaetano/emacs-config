@@ -16,3 +16,4 @@
 (require 'init-clojure)
 (require 'init-cider)
 (require 'init-themes)
+(require 'init-go-mode)
