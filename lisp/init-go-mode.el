@@ -1,3 +1,3 @@
-(require 'go-mode)
+(require-package 'go-mode)
 
 (provide 'init-go-mode)

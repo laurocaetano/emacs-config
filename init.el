@@ -17,3 +17,4 @@
 (require 'init-cider)
 (require 'init-themes)
 (require 'init-go-mode)
+(require 'init-scala)
