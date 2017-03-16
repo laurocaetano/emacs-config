@@ -18,3 +18,4 @@
 (require 'init-themes)
 (require 'init-go-mode)
 (require 'init-scala)
+(require 'init-elixir)
