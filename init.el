@@ -19,3 +19,4 @@
 (require 'init-go-mode)
 (require 'init-scala)
 (require 'init-elixir)
+(require 'init-hashicorp)
