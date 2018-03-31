@@ -1,4 +1,3 @@
-
 ;; Added by Package.el.  This must come before configurations of
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
@@ -15,15 +14,8 @@
 (require 'init-exec-path)
 (require 'init-key-mapping)
 (require 'init-gui-config)
-(require 'init-flycheck)
 (require 'init-helm)
 (require 'init-auto-complete)
 (require 'init-whitespace-cleanup)
-(require 'init-ruby-mode)
-(require 'init-clojure)
 (require 'init-cider)
 (require 'init-themes)
-(require 'init-go-mode)
-(require 'init-scala)
-(require 'init-elixir)
-(require 'init-hashicorp)
