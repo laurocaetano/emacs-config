@@ -11,11 +11,11 @@
 ;; Load configurations
 
 (require 'init-elpa)
+(require 'init-cider)
 (require 'init-exec-path)
 (require 'init-key-mapping)
 (require 'init-gui-config)
 (require 'init-helm)
 (require 'init-auto-complete)
 (require 'init-whitespace-cleanup)
-(require 'init-cider)
 (require 'init-themes)
