@@ -16,6 +16,7 @@
 (require 'init-key-mapping)
 (require 'init-gui-config)
 (require 'init-helm)
+(require 'init-paredit)
 (require 'init-auto-complete)
 (require 'init-whitespace-cleanup)
 (require 'init-themes)
