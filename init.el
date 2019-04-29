@@ -20,3 +20,5 @@
 (require 'init-auto-complete)
 (require 'init-whitespace-cleanup)
 (require 'init-themes)
+(require 'init-java)
+(require 'init-evil)
