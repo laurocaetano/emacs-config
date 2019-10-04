@@ -21,4 +21,6 @@
 (require 'init-whitespace-cleanup)
 (require 'init-themes)
 (require 'init-java)
+(require 'init-kotlin)
 (require 'init-evil)
+(require 'init-editorconfig)
