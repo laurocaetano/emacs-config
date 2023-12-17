@@ -1,8 +1,8 @@
-(require-package 'color-theme-sanityinc-tomorrow)
+(require-package 'doom-themes)
 
-(load-theme 'sanityinc-tomorrow-night t)
-(set-default-font "Source Code Pro")
-(set-face-attribute 'default nil :height 180)
-(setq-default cursor-type 'bar)
+(load-theme 'doom-nord-light t)
+(set-frame-font "Berkeley Mono" nil t)
+(set-face-attribute 'default nil :height 150)
+(setq-default cursor-type '(hbar . 1))
 
 (provide 'init-themes)

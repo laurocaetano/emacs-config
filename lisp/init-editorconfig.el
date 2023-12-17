@@ -1,3 +1,5 @@
-(require-package 'editorconfig-mode)
+(require-package 'editorconfig)
 
-(provide 'init-editorconfig-mode)
+(editorconfig-mode 1)
+
+(provide 'init-editorconfig)

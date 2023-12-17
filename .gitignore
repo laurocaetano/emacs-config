@@ -4,3 +4,9 @@
 custom.el
 *.dat
 *.eld
+*.el~
+elpa/
+*.data
+transient/
+*.el.~*
+auto-save-list/

@@ -5,5 +5,6 @@
 (setq indicate-empty-lines t)
 (tool-bar-mode -1)
 (set-scroll-bar-mode nil)
+(global-display-line-numbers-mode)
 
 (provide 'init-gui-config)
